@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1679624714 source:c:\users\ale\desktop\programas de c\escom\afn terminado\main.cpp
+	<iostream>
+	<vector>
+	<set>
+	<map>
+	<fstream>
+	<queue>
+	"lectura.h"
+
+1679623875 c:\users\ale\desktop\programas de c\escom\afn terminado\lectura.cpp
+	<iostream>
+	<vector>
+	<set>
+	<map>
+	<fstream>
+	<queue>
+
+1679624185 source:c:\users\ale\desktop\programas de c\escom\afn terminado\lectura.cpp
+	<iostream>
+	<vector>
+	<set>
+	<map>
+	<fstream>
+	<queue>
+	"lectura.h"
+
+1679624714 c:\users\ale\desktop\programas de c\escom\afn terminado\lectura.h
+	<iostream>
+	<vector>
+	<set>
+	<map>
+	<fstream>
+	<queue>
+
+1679624714 source:c:\users\ale\desktop\programas de c\escom\afn terminado\traduccion.cpp
+	"lectura.h"
+

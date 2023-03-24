@@ -1,0 +1,14 @@
+ab
+Hole OK1 b
+Hole Hole a
+Hole Hole b
+OK1 NOT a
+NOT OK2 b
+OK2 OK2 b
+OK2 OK1 a
+NOT OK3 a
+OK3 OK3 a
+OK3 OK3 b
+#
+OK1 OK2 OK3
+Hole
